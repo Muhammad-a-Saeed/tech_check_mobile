@@ -1,0 +1,48 @@
+export const ROUTES = {
+  // Screens
+  Auth: 'Auth',
+  Main: 'Main',
+  Splash: 'Splash',
+  Home: 'Home',
+  Onboarding: 'Onboarding',
+  ProfileType: 'ProfileType',
+  SignIn: 'SignIn',
+  SignUp: 'SignUp',
+  CreatePassword: 'CreatePassword',
+  EmailOTP: 'EmailOTP',
+  UserEmail: 'UserEmail',
+  Address: 'Address',
+  MapLocation: 'MapLocation',
+  ProfileSetup: 'ProfileSetup',
+  Preferences: 'Preferences',
+  Notifications: 'Notifications',
+  CreateNewID: 'CreateNewID',
+  StaffIDs: 'StaffIDs',
+  CheckLists: 'CheckLists',
+  CheckListDetails: 'CheckListDetails',
+  VehicleDetails: 'VehicleDetails',
+  PreCheckList: 'PreCheckList',
+  PostCheckList: 'PostCheckList',
+  Subscription: 'Subscription',
+  Summary: 'Summary',
+  PaymentCard: 'PaymentCard',
+  PaymentMethod: 'PaymentMethod',
+  SuccessFull: 'SuccessFull',
+  Profile: 'Profile',
+  AboutUs: 'AboutUs',
+  ChangePassword: 'ChangePassword',
+  NotificationSettings: 'NotificationSettings',
+  VehicleDetailsAdd: 'VehicleDetailsAdd',
+  PrePostCheckPhoto: 'PrePostCheckPhoto',
+
+  //   Tab
+  TabHome: 'TabHome',
+  TabChecklist: 'TabChecklist',
+  TabSubscription: 'TabSubscription',
+  TabProfile: 'TabProfile',
+};
+
+export const ACCOUNT_TYPE = {
+  company: 'company',
+  technician: 'technician',
+};
